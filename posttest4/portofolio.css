@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    padding: 10px;
+    background-color: #0093ff;
+}
+
+header h1 span{
+    color: white;
+}
+
+nav ul a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+nav{
+    position: absolute;
+    right: 0;
+    margin-right: 75px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+
+}
+
+.Introduce {
+    text-align: center;
+}
+
+.Tabel {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    position: relative;
+    
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+.Form{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Footer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #0093ff
+}
+
